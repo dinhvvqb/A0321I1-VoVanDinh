@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DANH SACH</title>
+</head>
+<body>
+        <ul>
+
+            <li> <b> Viet Nam  </b> </li> <br>
+                    <ol>
+                        <li> Ha Noi</li> <br>
+                        <li> Hue</li> <br>
+                        <li> Sai Gon</li> <br>
+                        <li> Da Nang </li> <br>
+
+                    </ol> <br>
+
+            <li><b> Hoa Ky</li></b> <br>
+                    <ol>
+                        <li> NewYok</li> <br>
+                        <li> Los Angeles</li> <br>
+                        <li> Houseton</li> <br>
+                        <li> Chicago </li><br>
+                    </ol>
+            <li><b> Trung Quoc</li> </b><br>
+                    <ol>
+                        <li> Bac Kinh</li> <br>
+                        <li> Thuong Hai</li> <br>
+                        <li> Thien Tan</li> <br>
+                    </ol>
+        </ul>
+
+
+
+
+
+
+</body>
+</html>
