@@ -1,2 +1,23 @@
 
 https://github.com/dinhvvqb/A0321I1-VoVanDinh
+
+Administrator@AK22-20210331QF MINGW64 /d/A0321I1-VoVanDinh/Module1_/bai4_Git&HTML/thuc_hanh (master)
+$ git commit -m "thuc hanh git"
+[master b8e928d] thuc hanh git
+ 1 file changed, 2 insertions(+)
+ create mode 100644 Module1_/bai4_Git&HTML/thuc_hanh/thuc_hanh.txt
+
+Administrator@AK22-20210331QF MINGW64 /d/A0321I1-VoVanDinh/Module1_/bai4_Git&HTML/thuc_hanh (master)
+$ git push origin master
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (6/6), 455 bytes | 227.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/dinhvvqb/A0321I1-VoVanDinh.git
+   ced3de2..b8e928d  master -> master
+
+Administrator@AK22-20210331QF MINGW64 /d/A0321I1-VoVanDinh/Module1_/bai4_Git&HTML/thuc_hanh (master)
+$
