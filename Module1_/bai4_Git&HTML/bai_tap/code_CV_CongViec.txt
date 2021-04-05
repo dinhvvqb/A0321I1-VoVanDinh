@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <title>CV Cá Nhân</title>
 </head>
+
 <body>
     <ul style="list-style-type: square">
         <h3> <b> Thông Tin Cá Nhân </b></h3>
             <ol>
-                <li><b> H? Và Tên: </b></li> V? Vãn Ð?nh <br>
-                <li><b> Ð?a Ch?:</b></li> 178 Ð?ng Ða - Q.H?i Châu - TP Ðà N?ng
-                <li><b> S? Ði?n Tho?i:</b></li> 077.946.294
-                <li><b> Email:</b></li> dinhvvqb@gmail.com
+                <li><b> H? Và Tên: </b>V? Vãn Ð?nh </li>
+                <li><b> Ð?a Ch?:</b> 178 Ð?ng Ða - Q.H?i Châu - TP Ðà N?ng</li>
+                <li><b> S? Ði?n Tho?i:</b>077.946.294</li>
+                <li><b> Email:</b>dinhvvqb@gmail.com</li>
                 <li><b> ?nh: </b></li>
                         <img src="chanDung.jpg" width=" 140" height="145"> <br>
                 <li><b> Ð?nh hý?ng phát tri?n cá nhân: </b></li>
