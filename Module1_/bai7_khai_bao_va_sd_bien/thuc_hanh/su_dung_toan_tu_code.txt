@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tinh Dien Tich Hinh Chu Nhat Nhap Vao Tu Ban Phim</title>
+</head>
+<body>
+
+        <script>
+            let inputwidth;
+            let inputheight;
+           // let are;
+            inputwidth= prompt("enter the width please: ");
+            inputheight= prompt("enter the height pleae: ");
+            let width= parseInt(inputwidth) ;
+            let height = parseInt(inputheight);
+            let  are= width * height;
+            document.write("The result is: "+ are)
+        </script>
+
+</body>
+</html>

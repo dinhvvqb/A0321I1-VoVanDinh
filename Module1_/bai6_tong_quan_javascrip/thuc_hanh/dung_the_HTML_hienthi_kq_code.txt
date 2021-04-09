@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HIEN THI KET QUA</title>
+</head>
+<body>
+<center>
+        <div id="mesengerDIV"> </div>
+        <button type="button" onclick="showmesenger( );"> click me  </button>
+        <script>
+            function showmesenger()
+            {
+            document.getElementById("mesengerDIV").innerHTML="doan ma duoc chen vao thay the ok";
+            }
+        </script>
+</center>
+</body>
+</html>
