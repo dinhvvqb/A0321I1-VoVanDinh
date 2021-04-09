@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HAM CONSOLE_LOG</title>
+</head>
+<body>
+<center>
+
+    <button type="button" onclick="showMessage();">Click Me!</button>
+    <script>
+        function showMessage(){
+            console.log('Xin chào!');
+        }
+    </script>
+</center>
+</body>
+</html>
