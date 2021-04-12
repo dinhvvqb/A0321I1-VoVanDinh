@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CHUYEN DOI NHIET DO</title>
+</head>
+<body>
+
+        <script>
+            let input_c;
+            input_c= prompt("Nhap nhiet do C: ");
+            let c= parseInt(input_c);
+            let f= (9*c/5) +32;
+            document.write("Nhiet do F la: " + f);
+        </script>
+</body>
+</html>

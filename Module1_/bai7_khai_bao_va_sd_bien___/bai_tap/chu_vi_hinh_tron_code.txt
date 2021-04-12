@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chu Vi Hinh Tron</title>
+</head>
+<body>
+        <script>
+            let input_r;
+            input_r= prompt("Nhap ban kinh hinh tron: ");
+            let r= parseInt(input_r);
+            let C=2*r*3.14;
+            document.write("Chu vi hinh tron la: " + C);
+        </script>
+</body>
+</html>
